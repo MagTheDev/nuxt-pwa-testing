@@ -2,6 +2,13 @@
   <VitePwaManifest/>
   <div class="recording-container">
     <Recording></Recording>
+    <Recording></Recording>
+    <Recording></Recording>
+    <Recording></Recording>
+    <Recording></Recording>
+    <Recording></Recording>
+    <Recording></Recording>
+    
 
   </div>
 </template>
