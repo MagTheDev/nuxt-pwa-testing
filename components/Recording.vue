@@ -18,7 +18,7 @@
         font-family: 'Helvetica Neue', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', sans-serif;
         display: flex;
         align-items: center;
-        border: 2px solid cornsilk;
+        border: 2px solid whitesmoke;
         border-radius: 6px;
         height: fit-content;
         box-sizing: border-box;

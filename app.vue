@@ -9,7 +9,7 @@
 <style>
   html {
     background-color: #101010;
-    color: cornsilk;
+    color: whitesmoke;
     border-radius: 6px;
     padding: 6px;
   }
