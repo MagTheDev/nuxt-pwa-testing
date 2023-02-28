@@ -1389,6 +1389,11 @@
     vite-plugin-checker "^0.5.5"
     vue-bundle-renderer "^1.0.2"
 
+"@phosphor-icons/vue@^1.5.0":
+  version "1.5.0"
+  resolved "https://registry.yarnpkg.com/@phosphor-icons/vue/-/vue-1.5.0.tgz#aa6b79576bb8cf3a5f7dcd85fb8a62819811b4f3"
+  integrity sha512-hTLe8M0rN9xm9RnSfnvqaLwnNepcTVF9RT87frrtoxQVDVj/arKzi2DeBqKCziFUTFJ9hwd8QcEMWEwic0syZw==
+
 "@planetscale/database@^1.5.0":
   version "1.5.0"
   resolved "https://registry.yarnpkg.com/@planetscale/database/-/database-1.5.0.tgz#073d9ca9841ad62896a6e31f610e89112e6264ef"
