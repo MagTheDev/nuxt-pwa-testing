@@ -13,7 +13,7 @@
 <script setup lang="ts">
 </script>
 
-<style scoped lang="scss">
+<style scoped>
     .container {
         display: flex;
         align-items: center;
