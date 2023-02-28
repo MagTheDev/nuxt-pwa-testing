@@ -8,7 +8,7 @@
     <Recording></Recording>
     <Recording></Recording>
     <Recording></Recording>
-    
+
 
   </div>
 </template>
@@ -24,7 +24,7 @@
   .recording-contaner {
 
     display: flex;
-    gap: 12px;
+    gap: 48px;
     width: 80%;
     height: 100vh;
 
