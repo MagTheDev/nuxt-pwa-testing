@@ -15,14 +15,24 @@
 
 <style scoped>
     .container {
+        font-family: 'Helvetica Neue', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', sans-serif;
         display: flex;
         align-items: center;
+        border: 2px solid cornsilk;
+        border-radius: 6px;
+        height: fit-content;
+        box-sizing: border-box;
+        padding: 16px;
     }
     .title-container {
         width: 90%;
         height: 100%;
         display: flex;
         align-items: center;
+    }
+    .title {
+        font-size: 2rem;
+        font-weight: 600;
     }
     .icon-container {
 
